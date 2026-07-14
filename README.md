@@ -34,8 +34,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0133-clone-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0133-clone-graph) |
 ## Sliding Window
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0133-clone-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
