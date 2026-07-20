@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0274-h-index) |
 | [0739-daily-temperatures](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
@@ -64,4 +65,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0147-insertion-sort-list) |
+| [0274-h-index](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
