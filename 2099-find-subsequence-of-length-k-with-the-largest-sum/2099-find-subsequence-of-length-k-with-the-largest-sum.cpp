@@ -1,3 +1,14 @@
+
+bool compare(pair<int,int>&a,pair<int,int>&b)
+{
+    return a.first>b.first;
+}
+
+bool compareIndex(pair<int,int>&a, pair<int,int>&b)
+{
+    return a.second<b.second;
+}
+
 class Solution {
 public:
     vector<int> maxSubsequence(vector<int>& nums, int k) {
@@ -9,9 +20,10 @@ public:
             v.push_back({nums[i], i});
         }
 
-        sort(v.begin(), v.end(), [](auto &a, auto &b){
-            return a.first > b.first;
-        });
+        sort(v.begin(), v.end(), compare);
+
+
+
 
         vector<pair<int,int>> selected;
 
@@ -20,9 +32,8 @@ public:
             selected.push_back(v[i]);
         }
 
-        sort(selected.begin(), selected.end(), [](auto &a, auto &b){
-            return a.second < b.second;
-        });
+        sort(selected.begin(), selected.end(),compareIndex);
+            
 
         vector<int> ans;
 
