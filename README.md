@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1627-graph-connectivity-with-threshold](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2707-extra-characters-in-a-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [3242-design-neighbor-sum-service](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3378-count-connected-components-in-lcm-graph) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1314-matrix-block-sum) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3242-design-neighbor-sum-service](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 ## Simulation
 |  |
@@ -221,4 +223,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1314-matrix-block-sum) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 <!---LeetCode Topics End-->
