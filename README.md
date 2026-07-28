@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2707-extra-characters-in-a-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2707-extra-characters-in-a-string) |
+| [3242-design-neighbor-sum-service](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3378-count-connected-components-in-lcm-graph) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2707-extra-characters-in-a-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2707-extra-characters-in-a-string) |
+| [3242-design-neighbor-sum-service](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3378-count-connected-components-in-lcm-graph) |
 ## Sliding Window
 |  |
@@ -201,4 +203,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0139-word-break) |
+## Design
+|  |
+| ------- |
+| [3242-design-neighbor-sum-service](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3242-design-neighbor-sum-service) |
+## Matrix
+|  |
+| ------- |
+| [3242-design-neighbor-sum-service](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3242-design-neighbor-sum-service) |
+## Simulation
+|  |
+| ------- |
+| [3242-design-neighbor-sum-service](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 <!---LeetCode Topics End-->
