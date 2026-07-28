@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0466-count-the-repetitions](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0466-count-the-repetitions) |
 | [0526-beautiful-arrangement](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0764-largest-plus-sign](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0764-largest-plus-sign) |
 | [0887-super-egg-drop](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0887-super-egg-drop) |
 | [2707-extra-characters-in-a-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2707-extra-characters-in-a-string) |
 ## Stack
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0526-beautiful-arrangement](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0739-daily-temperatures](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0739-daily-temperatures) |
+| [0764-largest-plus-sign](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0764-largest-plus-sign) |
 | [0766-toeplitz-matrix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [1314-matrix-block-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1627-graph-connectivity-with-threshold) |
