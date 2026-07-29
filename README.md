@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0887-super-egg-drop](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0887-super-egg-drop) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1627-graph-connectivity-with-threshold) |
+| [2485-find-the-pivot-integer](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3378-count-connected-components-in-lcm-graph) |
 ## Backtracking
 |  |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2485-find-the-pivot-integer](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2485-find-the-pivot-integer) |
 ## Segment Tree
 |  |
 | ------- |
