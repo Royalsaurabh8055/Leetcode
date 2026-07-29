@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0739-daily-temperatures) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2281-sum-of-total-strength-of-wizards) |
 ## Greedy
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0739-daily-temperatures) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2281-sum-of-total-strength-of-wizards) |
 ## Array
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2145-count-the-hidden-sequences](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2145-count-the-hidden-sequences) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2707-extra-characters-in-a-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [3242-design-neighbor-sum-service](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3242-design-neighbor-sum-service) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2145-count-the-hidden-sequences](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2145-count-the-hidden-sequences) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## Segment Tree
 |  |
