@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0139-word-break) |
 | [0220-contains-duplicate-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0274-h-index](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0274-h-index) |
+| [0303-range-sum-query-immutable](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0349-intersection-of-two-arrays](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0731-my-calendar-ii) |
 | [3242-design-neighbor-sum-service](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 ## Matrix
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0724-find-pivot-index) |
