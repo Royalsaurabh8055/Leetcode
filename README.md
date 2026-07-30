@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0198-house-robber) |
 | [0220-contains-duplicate-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0274-h-index](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0332-reconstruct-itinerary) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0466-count-the-repetitions](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0466-count-the-repetitions) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
