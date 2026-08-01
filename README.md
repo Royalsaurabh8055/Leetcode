@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0066-plus-one) |
 | [0139-word-break](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0139-word-break) |
 | [0164-maximum-gap](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0198-house-robber) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0066-plus-one) |
 | [0368-largest-divisible-subset](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0887-super-egg-drop](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0887-super-egg-drop) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1627-graph-connectivity-with-threshold) |
