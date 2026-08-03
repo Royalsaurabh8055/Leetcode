@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-count-subarrays-with-median-k](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2488-count-subarrays-with-median-k) |
 | [2707-extra-characters-in-a-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3242-design-neighbor-sum-service](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3378-count-connected-components-in-lcm-graph) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3242-design-neighbor-sum-service](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 ## Simulation
 |  |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 ## Segment Tree
 |  |
 | ------- |
