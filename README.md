@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0139-word-break) |
 | [0349-intersection-of-two-arrays](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1980-find-unique-binary-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0713-subarray-product-less-than-k](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0887-super-egg-drop](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0887-super-egg-drop) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0785-is-graph-bipartite](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2382-maximum-segment-sum-after-removals) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0220-contains-duplicate-iii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0731-my-calendar-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0731-my-calendar-ii) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2382-maximum-segment-sum-after-removals) |
 ## Trie
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0731-my-calendar-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1622-fancy-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1622-fancy-sequence) |
 | [3242-design-neighbor-sum-service](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3242-design-neighbor-sum-service) |
@@ -426,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0175-combine-two-tables) |
+## Data Stream
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
