@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0500-keyboard-row](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0500-keyboard-row) |
+| [0525-contiguous-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0398-random-pick-index) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0500-keyboard-row](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0500-keyboard-row) |
+| [0525-contiguous-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0525-contiguous-array) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1980-find-unique-binary-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0525-contiguous-array) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0724-find-pivot-index) |
