@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [1980-find-unique-binary-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2707-extra-characters-in-a-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2707-extra-characters-in-a-string) |
 ## Dynamic Programming
 |  |
