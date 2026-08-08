@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0739-daily-temperatures) |
 | [0764-largest-plus-sign](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0764-largest-plus-sign) |
 | [0766-toeplitz-matrix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0766-toeplitz-matrix) |
+| [0789-escape-the-ghosts](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0789-escape-the-ghosts) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0813-largest-sum-of-averages](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0848-shifting-letters](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0848-shifting-letters) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0398-random-pick-index) |
 | [0528-random-pick-with-weight](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0528-random-pick-with-weight) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0789-escape-the-ghosts](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0789-escape-the-ghosts) |
 | [0887-super-egg-drop](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0887-super-egg-drop) |
 | [1406-stone-game-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1406-stone-game-iii) |
 | [1622-fancy-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1622-fancy-sequence) |
