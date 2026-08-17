@@ -58,10 +58,12 @@ public:
         {
             return (1 << left)-1;
         }
-        else
 
-        return 1 + countNodes(root->left) + countNodes(root->right);
+       // return 1 + countNodes(root->left) + countNodes(root->right);
+    int countLeft = countNodes(root->left);
+    int countRight= countNodes(root->right);
 
+    return (1 + countLeft + countRight);
        
     }
 };
