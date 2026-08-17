@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0457-circular-array-loop](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0457-circular-array-loop) |
 | [0500-keyboard-row](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0526-beautiful-arrangement) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0383-ransom-note) |
 | [0398-random-pick-index](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0398-random-pick-index) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0457-circular-array-loop](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0457-circular-array-loop) |
 | [0500-keyboard-row](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0575-distribute-candies) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0457-circular-array-loop](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0457-circular-array-loop) |
 | [0466-count-the-repetitions](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0466-count-the-repetitions) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 ## Binary Search
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0202-happy-number) |
+| [0457-circular-array-loop](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0457-circular-array-loop) |
 ## Hash Function
 |  |
 | ------- |
