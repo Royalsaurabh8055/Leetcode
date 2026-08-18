@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0067-add-binary) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0120-triangle) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0044-wildcard-matching) |
 | [0134-gas-station](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0134-gas-station) |
 | [0324-wiggle-sort-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0402-remove-k-digits](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0402-remove-k-digits) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0060-permutation-sequence) |
 | [0770-basic-calculator-iv](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0770-basic-calculator-iv) |
 ## Sorting
