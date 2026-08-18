@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0065-valid-number) |
