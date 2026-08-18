@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2707-extra-characters-in-a-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2707-extra-characters-in-a-string) |
+| [3163-string-compression-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3163-string-compression-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
