@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2707-extra-characters-in-a-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [3163-string-compression-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3163-string-compression-iii) |
+| [3407-substring-matching-pattern](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3407-substring-matching-pattern) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -663,4 +664,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0752-open-the-lock](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0752-open-the-lock) |
+## String Matching
+|  |
+| ------- |
+| [3407-substring-matching-pattern](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3407-substring-matching-pattern) |
 <!---LeetCode Topics End-->
