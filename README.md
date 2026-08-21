@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0402-remove-k-digits](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0605-can-place-flowers](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0649-dota2-senate) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0575-distribute-candies) |
 | [0587-erect-the-fence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0587-erect-the-fence) |
 | [0594-longest-harmonious-subsequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0713-subarray-product-less-than-k) |
