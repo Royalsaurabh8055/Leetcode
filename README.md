@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0752-open-the-lock) |
 | [0764-largest-plus-sign](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0764-largest-plus-sign) |
 | [0766-toeplitz-matrix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0766-toeplitz-matrix) |
+| [0778-swim-in-rising-water](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0789-escape-the-ghosts](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0789-escape-the-ghosts) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0804-unique-morse-code-words](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0804-unique-morse-code-words) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Breadth-First Search
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0752-open-the-lock) |
+| [0778-swim-in-rising-water](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Graph Theory
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0332-reconstruct-itinerary](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0778-swim-in-rising-water](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0528-random-pick-with-weight) |
 | [0713-subarray-product-less-than-k](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0731-my-calendar-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0778-swim-in-rising-water](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0887-super-egg-drop](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0887-super-egg-drop) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -429,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0685-redundant-connection-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2382-maximum-segment-sum-after-removals) |
@@ -510,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0733-flood-fill](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0766-toeplitz-matrix) |
+| [0778-swim-in-rising-water](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1314-matrix-block-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1314-matrix-block-sum) |
@@ -582,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1406-stone-game-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
@@ -692,4 +700,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0148-sort-list) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
