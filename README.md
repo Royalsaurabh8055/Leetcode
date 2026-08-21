@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-design-neighbor-sum-service](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3378-count-connected-components-in-lcm-graph) |
+| [3479-fruits-into-baskets-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3479-fruits-into-baskets-iii) |
 | [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
 | [3965-finish-time-of-tasks-i](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3965-finish-time-of-tasks-i) |
 ## Hash Table
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [3161-block-placement-queries](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3479-fruits-into-baskets-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3479-fruits-into-baskets-iii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Math
 |  |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0731-my-calendar-ii) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2382-maximum-segment-sum-after-removals) |
 | [3161-block-placement-queries](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3161-block-placement-queries) |
+| [3479-fruits-into-baskets-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3479-fruits-into-baskets-iii) |
 ## Trie
 |  |
 | ------- |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1622-fancy-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3161-block-placement-queries) |
+| [3479-fruits-into-baskets-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3479-fruits-into-baskets-iii) |
 ## Enumeration
 |  |
 | ------- |
