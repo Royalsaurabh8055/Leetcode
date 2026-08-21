@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1631-path-with-minimum-effort](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [3965-finish-time-of-tasks-i](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3965-finish-time-of-tasks-i) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [3965-finish-time-of-tasks-i](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3965-finish-time-of-tasks-i) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Bucket Sort
 |  |
 | ------- |
