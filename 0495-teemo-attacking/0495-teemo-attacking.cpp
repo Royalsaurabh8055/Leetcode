@@ -8,7 +8,7 @@ public:
         {
              int gap = timeSeries[i+1]-timeSeries[i];
 
-             total+= min(duration, gap);
+             total+= min(duration, gap); // poisned till timer is reset
         }
         return total + duration; 
     }
