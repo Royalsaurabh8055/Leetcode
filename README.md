@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0457-circular-array-loop](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0457-circular-array-loop) |
+| [0495-teemo-attacking](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0526-beautiful-arrangement) |
@@ -590,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0068-text-justification) |
+| [0495-teemo-attacking](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0495-teemo-attacking) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [3242-design-neighbor-sum-service](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3894-traffic-signal-color](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3894-traffic-signal-color) |
