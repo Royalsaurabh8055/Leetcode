@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1631-path-with-minimum-effort](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [3123-find-edges-in-shortest-paths](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
 | [3965-finish-time-of-tasks-i](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3965-finish-time-of-tasks-i) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1631-path-with-minimum-effort](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [3123-find-edges-in-shortest-paths](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 ## Graph Theory
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0785-is-graph-bipartite](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1791-find-center-of-star-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1791-find-center-of-star-graph) |
+| [3123-find-edges-in-shortest-paths](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Linked List
 |  |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3123-find-edges-in-shortest-paths](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Eulerian Circuit
 |  |
@@ -791,4 +795,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3161-block-placement-queries) |
+## Shortest Path
+|  |
+| ------- |
+| [3123-find-edges-in-shortest-paths](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 <!---LeetCode Topics End-->
