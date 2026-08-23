@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0224-basic-calculator](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0224-basic-calculator) |
 | [0332-reconstruct-itinerary](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0383-ransom-note](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0383-ransom-note) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0224-basic-calculator) |
 | [0402-remove-k-digits](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0402-remove-k-digits) |
 | [0726-number-of-atoms](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0726-number-of-atoms) |
 | [0739-daily-temperatures](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0739-daily-temperatures) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0060-permutation-sequence) |
+| [0224-basic-calculator](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0224-basic-calculator) |
 | [0770-basic-calculator-iv](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0770-basic-calculator-iv) |
 ## Sorting
 |  |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0224-basic-calculator) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
