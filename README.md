@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0132-palindrome-partitioning-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0332-reconstruct-itinerary](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0332-reconstruct-itinerary) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0120-triangle) |
+| [0132-palindrome-partitioning-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0198-house-robber) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
