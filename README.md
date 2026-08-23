@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0407-trapping-rain-water-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0419-battleships-in-a-board](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0407-trapping-rain-water-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0514-freedom-trail](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0514-freedom-trail) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0685-redundant-connection-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0685-redundant-connection-ii) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0332-reconstruct-itinerary](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0407-trapping-rain-water-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0778-swim-in-rising-water](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0200-number-of-islands) |
+| [0407-trapping-rain-water-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0419-battleships-in-a-board](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0733-flood-fill](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0766-toeplitz-matrix) |
