@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3242-design-neighbor-sum-service](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3378-count-connected-components-in-lcm-graph) |
 | [3479-fruits-into-baskets-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3479-fruits-into-baskets-iii) |
 | [3923-minimum-generations-to-target-point](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3923-minimum-generations-to-target-point) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1791-find-center-of-star-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [3123-find-edges-in-shortest-paths](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Linked List
 |  |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3123-find-edges-in-shortest-paths](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3242-design-neighbor-sum-service](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3242-design-neighbor-sum-service) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -803,4 +807,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3123-find-edges-in-shortest-paths](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
+| [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 <!---LeetCode Topics End-->
