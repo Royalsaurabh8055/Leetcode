@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0761-special-binary-string) |
 | [0770-basic-calculator-iv](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0770-basic-calculator-iv) |
 | [0804-unique-morse-code-words](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0804-unique-morse-code-words) |
+| [0811-subdomain-visit-count](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [0848-shifting-letters](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0848-shifting-letters) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-escape-the-ghosts](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0789-escape-the-ghosts) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0804-unique-morse-code-words](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0804-unique-morse-code-words) |
+| [0811-subdomain-visit-count](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [0813-largest-sum-of-averages](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0848-shifting-letters](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0848-shifting-letters) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0752-open-the-lock) |
 | [0770-basic-calculator-iv](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0770-basic-calculator-iv) |
 | [0804-unique-morse-code-words](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0804-unique-morse-code-words) |
+| [0811-subdomain-visit-count](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [0888-fair-candy-swap](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0383-ransom-note) |
 | [0594-longest-harmonious-subsequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0811-subdomain-visit-count](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Heap (Priority Queue)
 |  |
