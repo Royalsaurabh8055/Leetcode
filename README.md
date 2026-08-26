@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1316-distinct-echo-substrings](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1316-distinct-echo-substrings) |
+| [1392-longest-happy-prefix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1392-longest-happy-prefix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1977-number-of-ways-to-separate-numbers) |
@@ -775,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0336-palindrome-pairs](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0336-palindrome-pairs) |
 | [1316-distinct-echo-substrings](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1316-distinct-echo-substrings) |
+| [1392-longest-happy-prefix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1392-longest-happy-prefix) |
 ## Primality Test
 |  |
 | ------- |
@@ -819,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [1392-longest-happy-prefix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1392-longest-happy-prefix) |
 | [3407-substring-matching-pattern](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3407-substring-matching-pattern) |
 ## Merge Sort
 |  |
@@ -852,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1316-distinct-echo-substrings](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1316-distinct-echo-substrings) |
+| [1392-longest-happy-prefix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1392-longest-happy-prefix) |
 ## Suffix Array
 |  |
 | ------- |
@@ -864,4 +868,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1316-distinct-echo-substrings](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1316-distinct-echo-substrings) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
