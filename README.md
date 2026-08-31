@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0903-valid-permutations-for-di-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0929-unique-email-addresses](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0929-unique-email-addresses) |
+| [0936-stamping-the-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0936-stamping-the-sequence) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1202-smallest-string-with-swaps](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1202-smallest-string-with-swaps) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0739-daily-temperatures) |
 | [0770-basic-calculator-iv](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0770-basic-calculator-iv) |
 | [0880-decoded-string-at-index](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0880-decoded-string-at-index) |
+| [0936-stamping-the-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0936-stamping-the-sequence) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2281-sum-of-total-strength-of-wizards) |
 ## Greedy
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0649-dota2-senate) |
 | [0767-reorganize-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0767-reorganize-string) |
+| [0936-stamping-the-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0936-stamping-the-sequence) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
@@ -784,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0649-dota2-senate) |
+| [0936-stamping-the-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0936-stamping-the-sequence) |
 ## Monotonic Queue
 |  |
 | ------- |
