@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0202-happy-number) |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0200-number-of-islands) |
@@ -865,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0127-word-ladder) |
 | [0752-open-the-lock](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0752-open-the-lock) |
 ## String Matching
 |  |
