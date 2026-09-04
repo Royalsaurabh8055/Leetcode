@@ -336,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0419-battleships-in-a-board) |
 | [0514-freedom-trail](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0514-freedom-trail) |
 | [0543-diameter-of-binary-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0685-redundant-connection-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0721-accounts-merge) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0514-freedom-trail](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0514-freedom-trail) |
+| [0547-number-of-provinces](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0685-redundant-connection-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0721-accounts-merge) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0133-clone-graph) |
 | [0210-course-schedule-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0547-number-of-provinces](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0785-is-graph-bipartite](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1791-find-center-of-star-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1791-find-center-of-star-graph) |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0547-number-of-provinces](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0778-swim-in-rising-water) |
