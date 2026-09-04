@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1202-smallest-string-with-swaps](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1267-count-servers-that-communicate](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1313-decompress-run-length-encoded-list) |
 | [1314-matrix-block-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1406-stone-game-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1406-stone-game-iii) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1042-flower-planting-with-no-adjacent](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1202-smallest-string-with-swaps](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1631-path-with-minimum-effort](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1042-flower-planting-with-no-adjacent](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1202-smallest-string-with-swaps](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1631-path-with-minimum-effort](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1631-path-with-minimum-effort) |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0767-reorganize-string) |
 | [0811-subdomain-visit-count](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1267-count-servers-that-communicate](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 ## Heap (Priority Queue)
 |  |
@@ -604,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0839-similar-string-groups) |
 | [0924-minimize-malware-spread](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0924-minimize-malware-spread) |
 | [1202-smallest-string-with-swaps](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1202-smallest-string-with-swaps) |
+| [1267-count-servers-that-communicate](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1631-path-with-minimum-effort](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2382-maximum-segment-sum-after-removals) |
@@ -708,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1267-count-servers-that-communicate](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1314-matrix-block-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
