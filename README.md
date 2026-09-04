@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0848-shifting-letters) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0888-fair-candy-swap](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0888-fair-candy-swap) |
+| [0924-minimize-malware-spread](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0924-minimize-malware-spread) |
 | [0929-unique-email-addresses](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0929-unique-email-addresses) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1178-number-of-valid-words-for-each-puzzle) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0839-similar-string-groups](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0839-similar-string-groups) |
 | [0888-fair-candy-swap](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0888-fair-candy-swap) |
+| [0924-minimize-malware-spread](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0924-minimize-malware-spread) |
 | [0929-unique-email-addresses](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0929-unique-email-addresses) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0839-similar-string-groups](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0839-similar-string-groups) |
+| [0924-minimize-malware-spread](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0924-minimize-malware-spread) |
 | [1202-smallest-string-with-swaps](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0839-similar-string-groups](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0839-similar-string-groups) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0924-minimize-malware-spread](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0924-minimize-malware-spread) |
 | [1202-smallest-string-with-swaps](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0765-couples-holding-hands](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0924-minimize-malware-spread](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0924-minimize-malware-spread) |
 | [1791-find-center-of-star-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [3123-find-edges-in-shortest-paths](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
@@ -594,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0839-similar-string-groups](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0839-similar-string-groups) |
+| [0924-minimize-malware-spread](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0924-minimize-malware-spread) |
 | [1202-smallest-string-with-swaps](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1631-path-with-minimum-effort](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1631-path-with-minimum-effort) |
