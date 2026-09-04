@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1980-find-unique-binary-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1991-find-the-middle-index-in-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
+| [1993-operations-on-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1993-operations-on-tree) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2145-count-the-hidden-sequences](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2145-count-the-hidden-sequences) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1980-find-unique-binary-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [1993-operations-on-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1993-operations-on-tree) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2488-count-subarrays-with-median-k](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2488-count-subarrays-with-median-k) |
 | [2707-extra-characters-in-a-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2707-extra-characters-in-a-string) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1631-path-with-minimum-effort](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1993-operations-on-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1993-operations-on-tree) |
 | [3123-find-edges-in-shortest-paths](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 | [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
 | [3965-finish-time-of-tasks-i](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3965-finish-time-of-tasks-i) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1631-path-with-minimum-effort](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1993-operations-on-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1993-operations-on-tree) |
 | [3123-find-edges-in-shortest-paths](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3123-find-edges-in-shortest-paths) |
 ## Graph Theory
 |  |
@@ -642,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1993-operations-on-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1993-operations-on-tree) |
 | [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
 | [3965-finish-time-of-tasks-i](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3965-finish-time-of-tasks-i) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
@@ -702,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1622-fancy-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1622-fancy-sequence) |
+| [1993-operations-on-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1993-operations-on-tree) |
 | [3242-design-neighbor-sum-service](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 ## Matrix
 |  |
