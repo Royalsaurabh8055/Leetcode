@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1643-kth-smallest-instructions](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1643-kth-smallest-instructions) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1776-car-fleet-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1776-car-fleet-ii) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0224-basic-calculator) |
 | [0770-basic-calculator-iv](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0770-basic-calculator-iv) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Sorting
 |  |
 | ------- |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1627-graph-connectivity-with-threshold](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1643-kth-smallest-instructions](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1643-kth-smallest-instructions) |
 | [1776-car-fleet-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1776-car-fleet-ii) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2485-find-the-pivot-integer](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -781,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0068-text-justification) |
 | [0495-teemo-attacking](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0495-teemo-attacking) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3242-design-neighbor-sum-service](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3894-traffic-signal-color](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3923-minimum-generations-to-target-point](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3923-minimum-generations-to-target-point) |
@@ -878,6 +882,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0649-dota2-senate](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0649-dota2-senate) |
 | [0936-stamping-the-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0936-stamping-the-sequence) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Monotonic Queue
 |  |
 | ------- |
