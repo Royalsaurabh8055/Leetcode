@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1406-stone-game-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1406-stone-game-iii) |
 | [1643-kth-smallest-instructions](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1643-kth-smallest-instructions) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2485-find-the-pivot-integer](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3378-count-connected-components-in-lcm-graph) |
