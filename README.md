@@ -594,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [1925-count-square-sum-triples](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2485-find-the-pivot-integer](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3378-count-connected-components-in-lcm-graph) |
@@ -835,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0479-largest-palindrome-product](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0479-largest-palindrome-product) |
+| [1925-count-square-sum-triples](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 ## Radix Sort
 |  |
