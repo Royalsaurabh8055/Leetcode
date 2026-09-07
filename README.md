@@ -600,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2029-stone-game-ix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2029-stone-game-ix) |
 | [2117-abbreviating-the-product-of-a-range](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2117-abbreviating-the-product-of-a-range) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2485-find-the-pivot-integer](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3378-count-connected-components-in-lcm-graph) |
@@ -844,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0479-largest-palindrome-product](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0479-largest-palindrome-product) |
 | [1925-count-square-sum-triples](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 ## Radix Sort
 |  |
 | ------- |
