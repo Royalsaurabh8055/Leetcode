@@ -599,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1925-count-square-sum-triples](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2029-stone-game-ix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2029-stone-game-ix) |
+| [2117-abbreviating-the-product-of-a-range](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2117-abbreviating-the-product-of-a-range) |
 | [2485-find-the-pivot-integer](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3378-count-connected-components-in-lcm-graph) |
@@ -673,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1201-ugly-number-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1201-ugly-number-iii) |
 | [1622-fancy-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1622-fancy-sequence) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1627-graph-connectivity-with-threshold) |
+| [2117-abbreviating-the-product-of-a-range](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2117-abbreviating-the-product-of-a-range) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3378-count-connected-components-in-lcm-graph) |
 ## Tree
 |  |
