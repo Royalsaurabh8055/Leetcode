@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0383-ransom-note](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0402-remove-k-digits) |
+| [0433-minimum-genetic-mutation](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0443-string-compression) |
 | [0466-count-the-repetitions](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0466-count-the-repetitions) |
 | [0500-keyboard-row](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0500-keyboard-row) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0383-ransom-note) |
 | [0398-random-pick-index](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0398-random-pick-index) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0433-minimum-genetic-mutation](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0457-circular-array-loop](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0457-circular-array-loop) |
 | [0500-keyboard-row](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0525-contiguous-array) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0433-minimum-genetic-mutation](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0514-freedom-trail](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0514-freedom-trail) |
 | [0547-number-of-provinces](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -916,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0127-word-ladder) |
+| [0433-minimum-genetic-mutation](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0752-open-the-lock) |
 ## String Matching
 |  |
