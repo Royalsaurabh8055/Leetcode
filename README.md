@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2029-stone-game-ix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2029-stone-game-ix) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1991-find-the-middle-index-in-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [1993-operations-on-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1993-operations-on-tree) |
+| [2029-stone-game-ix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2029-stone-game-ix) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2145-count-the-hidden-sequences](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2145-count-the-hidden-sequences) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1267-count-servers-that-communicate](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [2029-stone-game-ix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2029-stone-game-ix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1925-count-square-sum-triples](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [2029-stone-game-ix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2029-stone-game-ix) |
 | [2485-find-the-pivot-integer](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3378-count-connected-components-in-lcm-graph) |
@@ -853,14 +857,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [1406-stone-game-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -1040,4 +1047,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1201-ugly-number-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1201-ugly-number-iii) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
