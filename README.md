@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1316-distinct-echo-substrings](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1316-distinct-echo-substrings) |
 | [1392-longest-happy-prefix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1392-longest-happy-prefix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1573-number-of-ways-to-split-a-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [1980-find-unique-binary-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1406-stone-game-iii) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
+| [1573-number-of-ways-to-split-a-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1622-fancy-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1622-fancy-sequence) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
