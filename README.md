@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0457-circular-array-loop](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0457-circular-array-loop) |
 | [0500-keyboard-row](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0500-keyboard-row) |
+| [0519-random-flip-matrix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0519-random-flip-matrix) |
 | [0525-contiguous-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0525-contiguous-array) |
 | [0575-distribute-candies](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0400-nth-digit) |
 | [0479-largest-palindrome-product](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0479-largest-palindrome-product) |
 | [0486-predict-the-winner](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0486-predict-the-winner) |
+| [0519-random-flip-matrix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0519-random-flip-matrix) |
 | [0528-random-pick-with-weight](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0528-random-pick-with-weight) |
 | [0564-find-the-closest-palindrome](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0587-erect-the-fence) |
@@ -918,12 +920,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0398-random-pick-index) |
+| [0519-random-flip-matrix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0519-random-flip-matrix) |
 ## Randomized
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0398-random-pick-index](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0398-random-pick-index) |
+| [0519-random-flip-matrix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0519-random-flip-matrix) |
 | [0528-random-pick-with-weight](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0528-random-pick-with-weight) |
 ## Floyd's Cycle Finding Algorithm
 |  |
