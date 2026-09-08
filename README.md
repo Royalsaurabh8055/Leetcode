@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-minimize-malware-spread](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0924-minimize-malware-spread) |
 | [0929-unique-email-addresses](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0929-unique-email-addresses) |
 | [0932-beautiful-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0932-beautiful-array) |
+| [0939-minimum-area-rectangle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0939-minimum-area-rectangle) |
 | [1037-valid-boomerang](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1037-valid-boomerang) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1178-number-of-valid-words-for-each-puzzle) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0924-minimize-malware-spread](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0924-minimize-malware-spread) |
 | [0929-unique-email-addresses](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0929-unique-email-addresses) |
+| [0939-minimum-area-rectangle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0939-minimum-area-rectangle) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1178-number-of-valid-words-for-each-puzzle) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0767-reorganize-string) |
 | [0888-fair-candy-swap](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0910-smallest-range-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0910-smallest-range-ii) |
+| [0939-minimum-area-rectangle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0939-minimum-area-rectangle) |
 | [1202-smallest-string-with-swaps](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-surface-area-of-3d-shapes](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0910-smallest-range-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0910-smallest-range-ii) |
 | [0932-beautiful-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0932-beautiful-array) |
+| [0939-minimum-area-rectangle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0939-minimum-area-rectangle) |
 | [1037-valid-boomerang](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1037-valid-boomerang) |
 | [1201-ugly-number-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1201-ugly-number-iii) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1307-verbal-arithmetic-puzzle) |
@@ -973,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0587-erect-the-fence) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [0939-minimum-area-rectangle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0939-minimum-area-rectangle) |
 | [1037-valid-boomerang](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1037-valid-boomerang) |
 | [1453-maximum-number-of-darts-inside-of-a-circular-dartboard](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1453-maximum-number-of-darts-inside-of-a-circular-dartboard) |
 ## Convex Hull
