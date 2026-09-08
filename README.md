@@ -603,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-minimum-area-rectangle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0939-minimum-area-rectangle) |
 | [0963-minimum-area-rectangle-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0963-minimum-area-rectangle-ii) |
 | [1037-valid-boomerang](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1037-valid-boomerang) |
+| [1175-prime-arrangements](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1175-prime-arrangements) |
 | [1201-ugly-number-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1201-ugly-number-iii) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1406-stone-game-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1406-stone-game-iii) |
@@ -960,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1175-prime-arrangements](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1175-prime-arrangements) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -1085,4 +1087,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2029-stone-game-ix) |
+## Sieve Theory
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1175-prime-arrangements) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
