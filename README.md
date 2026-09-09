@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0767-reorganize-string) |
 | [0770-basic-calculator-iv](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0770-basic-calculator-iv) |
+| [0792-number-of-matching-subsequences](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0764-largest-plus-sign](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0764-largest-plus-sign) |
 | [0788-rotated-digits](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0788-rotated-digits) |
+| [0792-number-of-matching-subsequences](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0813-largest-sum-of-averages](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0837-new-21-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0837-new-21-game) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0778-swim-in-rising-water](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0789-escape-the-ghosts](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0789-escape-the-ghosts) |
+| [0792-number-of-matching-subsequences](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0804-unique-morse-code-words](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0811-subdomain-visit-count) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0767-reorganize-string) |
 | [0770-basic-calculator-iv](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0770-basic-calculator-iv) |
+| [0792-number-of-matching-subsequences](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
@@ -489,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0726-number-of-atoms](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0726-number-of-atoms) |
 | [0761-special-binary-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0767-reorganize-string) |
+| [0792-number-of-matching-subsequences](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0888-fair-candy-swap](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0910-smallest-range-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0910-smallest-range-ii) |
 | [0939-minimum-area-rectangle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0939-minimum-area-rectangle) |
@@ -554,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0754-reach-a-number](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0754-reach-a-number) |
 | [0778-swim-in-rising-water](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0792-number-of-matching-subsequences](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0887-super-egg-drop](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0887-super-egg-drop) |
 | [0888-fair-candy-swap](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0888-fair-candy-swap) |
 | [1201-ugly-number-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1201-ugly-number-iii) |
@@ -764,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0139-word-break) |
 | [0336-palindrome-pairs](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0792-number-of-matching-subsequences](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1316-distinct-echo-substrings](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1316-distinct-echo-substrings) |
 | [2707-extra-characters-in-a-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2707-extra-characters-in-a-string) |
