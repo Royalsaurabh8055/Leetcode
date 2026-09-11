@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0433-minimum-genetic-mutation](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0443-string-compression) |
 | [0466-count-the-repetitions](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0466-count-the-repetitions) |
+| [0481-magical-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0481-magical-string) |
 | [0500-keyboard-row](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0500-keyboard-row) |
 | [0514-freedom-trail](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0514-freedom-trail) |
 | [0564-find-the-closest-palindrome](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0564-find-the-closest-palindrome) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0443-string-compression) |
 | [0457-circular-array-loop](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0457-circular-array-loop) |
 | [0466-count-the-repetitions](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0466-count-the-repetitions) |
+| [0481-magical-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0481-magical-string) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 ## Binary Search
 |  |
