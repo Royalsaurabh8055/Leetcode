@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0726-number-of-atoms) |
 | [0752-open-the-lock](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0752-open-the-lock) |
+| [0753-cracking-the-safe](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0753-cracking-the-safe) |
 | [0756-pyramid-transition-matrix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0767-reorganize-string) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0685-redundant-connection-ii) |
 | [0721-accounts-merge](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0733-flood-fill) |
+| [0753-cracking-the-safe](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0753-cracking-the-safe) |
 | [0765-couples-holding-hands](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0765-couples-holding-hands) |
 | [0778-swim-in-rising-water](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0785-is-graph-bipartite) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0685-redundant-connection-ii) |
+| [0753-cracking-the-safe](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0753-cracking-the-safe) |
 | [0765-couples-holding-hands](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0765-couples-holding-hands) |
 | [0785-is-graph-bipartite](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0753-cracking-the-safe](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0753-cracking-the-safe) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1121,4 +1125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1175-prime-arrangements](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1175-prime-arrangements) |
+## Eulerian Path
+|  |
+| ------- |
+| [0753-cracking-the-safe](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0753-cracking-the-safe) |
+## Eulerian Graph
+|  |
+| ------- |
+| [0753-cracking-the-safe](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0753-cracking-the-safe) |
 <!---LeetCode Topics End-->
