@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-extra-characters-in-a-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [3163-string-compression-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3163-string-compression-iii) |
 | [3407-substring-matching-pattern](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3407-substring-matching-pattern) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3894-traffic-signal-color](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Dynamic Programming
 |  |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-extra-characters-in-a-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [3242-design-neighbor-sum-service](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3378-count-connected-components-in-lcm-graph) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3923-minimum-generations-to-target-point](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3923-minimum-generations-to-target-point) |
 ## Sliding Window
 |  |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2029-stone-game-ix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2029-stone-game-ix) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
