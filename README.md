@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0804-unique-morse-code-words](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0804-unique-morse-code-words) |
+| [0810-chalkboard-xor-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0811-subdomain-visit-count](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [0813-largest-sum-of-averages](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0839-similar-string-groups](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0839-similar-string-groups) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-basic-calculator-iv](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0770-basic-calculator-iv) |
 | [0788-rotated-digits](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0788-rotated-digits) |
 | [0789-escape-the-ghosts](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0789-escape-the-ghosts) |
+| [0810-chalkboard-xor-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0829-consecutive-numbers-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [0837-new-21-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0837-new-21-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0756-pyramid-transition-matrix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0810-chalkboard-xor-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1009-complement-of-base-10-integer](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1178-number-of-valid-words-for-each-puzzle) |
@@ -943,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0486-predict-the-winner) |
+| [0810-chalkboard-xor-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [1406-stone-game-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2029-stone-game-ix) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -950,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0486-predict-the-winner) |
+| [0810-chalkboard-xor-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [1406-stone-game-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimum Spanning Tree
@@ -1157,4 +1162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0753-cracking-the-safe](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0753-cracking-the-safe) |
+## Brainteaser
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0810-chalkboard-xor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0810-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
