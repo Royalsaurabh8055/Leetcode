@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0383-ransom-note](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0412-fizz-buzz) |
 | [0433-minimum-genetic-mutation](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0443-string-compression](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0443-string-compression) |
 | [0466-count-the-repetitions](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0466-count-the-repetitions) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0398-random-pick-index](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0400-nth-digit) |
+| [0412-fizz-buzz](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0412-fizz-buzz) |
 | [0479-largest-palindrome-product](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0479-largest-palindrome-product) |
 | [0486-predict-the-winner](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0486-predict-the-winner) |
 | [0519-random-flip-matrix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0519-random-flip-matrix) |
@@ -852,6 +854,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0068-text-justification) |
+| [0412-fizz-buzz](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0495-teemo-attacking) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
