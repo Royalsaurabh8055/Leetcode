@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0500-keyboard-row) |
 | [0514-freedom-trail](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0514-freedom-trail) |
 | [0520-detect-capital](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0520-detect-capital) |
+| [0539-minimum-time-difference](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0525-contiguous-array) |
 | [0526-beautiful-arrangement](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0528-random-pick-with-weight](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0528-random-pick-with-weight) |
+| [0539-minimum-time-difference](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0575-distribute-candies](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0575-distribute-candies) |
 | [0587-erect-the-fence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0587-erect-the-fence) |
 | [0594-longest-harmonious-subsequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0472-concatenated-words](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0472-concatenated-words) |
+| [0539-minimum-time-difference](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0486-predict-the-winner) |
 | [0519-random-flip-matrix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0519-random-flip-matrix) |
 | [0528-random-pick-with-weight](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0528-random-pick-with-weight) |
+| [0539-minimum-time-difference](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0587-erect-the-fence) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
