@@ -662,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0810-chalkboard-xor-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0829-consecutive-numbers-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [0837-new-21-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0837-new-21-game) |
+| [0858-mirror-reflection](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0858-mirror-reflection) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0887-super-egg-drop](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0887-super-egg-drop) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
@@ -766,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0858-mirror-reflection](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0858-mirror-reflection) |
 | [1201-ugly-number-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1201-ugly-number-iii) |
 | [1622-fancy-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1622-fancy-sequence) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1627-graph-connectivity-with-threshold) |
@@ -1057,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0780-reaching-points](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0780-reaching-points) |
+| [0858-mirror-reflection](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0858-mirror-reflection) |
 | [1201-ugly-number-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1201-ugly-number-iii) |
 ## Probability and Statistics
 |  |
@@ -1068,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0335-self-crossing) |
 | [0391-perfect-rectangle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0391-perfect-rectangle) |
 | [0587-erect-the-fence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0587-erect-the-fence) |
+| [0858-mirror-reflection](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0858-mirror-reflection) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0939-minimum-area-rectangle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0939-minimum-area-rectangle) |
@@ -1166,6 +1170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Least Common Multiple
 |  |
 | ------- |
+| [0858-mirror-reflection](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0858-mirror-reflection) |
 | [1201-ugly-number-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1201-ugly-number-iii) |
 ## Inclusion-Exclusion Principle
 |  |
