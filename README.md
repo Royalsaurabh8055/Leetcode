@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0458-poor-pigs](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0458-poor-pigs) |
 | [0466-count-the-repetitions](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0486-predict-the-winner) |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0412-fizz-buzz) |
+| [0458-poor-pigs](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0458-poor-pigs) |
 | [0479-largest-palindrome-product](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0479-largest-palindrome-product) |
 | [0486-predict-the-winner](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0486-predict-the-winner) |
 | [0519-random-flip-matrix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0519-random-flip-matrix) |
@@ -952,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0062-unique-paths) |
+| [0458-poor-pigs](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0458-poor-pigs) |
 | [1201-ugly-number-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1201-ugly-number-iii) |
 | [1643-kth-smallest-instructions](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1643-kth-smallest-instructions) |
 ## Minimax
