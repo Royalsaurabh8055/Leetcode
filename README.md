@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0324-wiggle-sort-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0332-reconstruct-itinerary](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0335-self-crossing](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0224-basic-calculator) |
+| [0335-self-crossing](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0335-self-crossing) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -1052,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0335-self-crossing](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0335-self-crossing) |
 | [0587-erect-the-fence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0587-erect-the-fence) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0892-surface-area-of-3d-shapes) |
