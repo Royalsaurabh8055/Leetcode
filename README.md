@@ -656,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0754-reach-a-number](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0754-reach-a-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0770-basic-calculator-iv](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0770-basic-calculator-iv) |
+| [0780-reaching-points](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0780-reaching-points) |
 | [0788-rotated-digits](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0788-rotated-digits) |
 | [0789-escape-the-ghosts](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0789-escape-the-ghosts) |
 | [0810-chalkboard-xor-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0810-chalkboard-xor-game) |
@@ -1049,11 +1050,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0780-reaching-points](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0780-reaching-points) |
 | [1201-ugly-number-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1201-ugly-number-iii) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0780-reaching-points](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0780-reaching-points) |
 | [1201-ugly-number-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1201-ugly-number-iii) |
 ## Probability and Statistics
 |  |
