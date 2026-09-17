@@ -110,7 +110,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-largest-plus-sign](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0764-largest-plus-sign) |
 | [0788-rotated-digits](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0788-rotated-digits) |
 | [0792-number-of-matching-subsequences](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0792-number-of-matching-subsequences) |
-| [0805-split-array-with-same-average](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [0813-largest-sum-of-averages](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0837-new-21-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0837-new-21-game) |
@@ -256,7 +255,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-number-of-matching-subsequences](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0798-smallest-rotation-with-highest-score](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0798-smallest-rotation-with-highest-score) |
 | [0804-unique-morse-code-words](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0804-unique-morse-code-words) |
-| [0805-split-array-with-same-average](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0811-subdomain-visit-count](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [0813-largest-sum-of-averages](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0813-largest-sum-of-averages) |
@@ -360,7 +358,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0770-basic-calculator-iv](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0770-basic-calculator-iv) |
 | [0792-number-of-matching-subsequences](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0804-unique-morse-code-words](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0804-unique-morse-code-words) |
-| [0805-split-array-with-same-average](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [0811-subdomain-visit-count](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0839-similar-string-groups](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0839-similar-string-groups) |
@@ -663,7 +660,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-reaching-points](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0780-reaching-points) |
 | [0788-rotated-digits](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0788-rotated-digits) |
 | [0789-escape-the-ghosts](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0789-escape-the-ghosts) |
-| [0805-split-array-with-same-average](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0829-consecutive-numbers-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [0837-new-21-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0837-new-21-game) |
@@ -724,7 +720,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0756-pyramid-transition-matrix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
-| [0805-split-array-with-same-average](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0810-chalkboard-xor-game) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
@@ -735,7 +730,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0526-beautiful-arrangement) |
-| [0805-split-array-with-same-average](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0805-split-array-with-same-average) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Divide and Conquer
@@ -1218,8 +1212,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0391-perfect-rectangle) |
-## Meet in the Middle
-|  |
-| ------- |
-| [0805-split-array-with-same-average](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0805-split-array-with-same-average) |
 <!---LeetCode Topics End-->
