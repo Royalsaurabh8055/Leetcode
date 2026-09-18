@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2707-extra-characters-in-a-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [3163-string-compression-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3163-string-compression-iii) |
 | [3407-substring-matching-pattern](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3407-substring-matching-pattern) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2707-extra-characters-in-a-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Monotonic Stack
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0466-count-the-repetitions](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0466-count-the-repetitions) |
 | [0481-magical-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0481-magical-string) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Binary Search
 |  |
 | ------- |
