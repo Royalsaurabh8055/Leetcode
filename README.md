@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
 | [3965-finish-time-of-tasks-i](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3965-finish-time-of-tasks-i) |
 ## Stack
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3479-fruits-into-baskets-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3479-fruits-into-baskets-iii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3923-minimum-generations-to-target-point](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3923-minimum-generations-to-target-point) |
 | [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
 | [3965-finish-time-of-tasks-i](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3965-finish-time-of-tasks-i) |
@@ -946,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3242-design-neighbor-sum-service](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
