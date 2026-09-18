@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2382-maximum-segment-sum-after-removals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2488-count-subarrays-with-median-k](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2488-count-subarrays-with-median-k) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2707-extra-characters-in-a-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-operations-on-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1993-operations-on-tree) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2488-count-subarrays-with-median-k](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2488-count-subarrays-with-median-k) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2707-extra-characters-in-a-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [3242-design-neighbor-sum-service](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3378-count-connected-components-in-lcm-graph) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bitmask
