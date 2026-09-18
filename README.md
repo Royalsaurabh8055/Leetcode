@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0903-valid-permutations-for-di-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0940-distinct-subsequences-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [1140-stone-game-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1140-stone-game-ii) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1406-stone-game-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1406-stone-game-iii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1037-valid-boomerang) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1093-statistics-from-a-large-sample](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1093-statistics-from-a-large-sample) |
+| [1140-stone-game-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1140-stone-game-ii) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1202-smallest-string-with-swaps](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1202-smallest-string-with-swaps) |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1017-convert-to-base-2](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1017-convert-to-base-2) |
 | [1037-valid-boomerang](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1037-valid-boomerang) |
 | [1093-statistics-from-a-large-sample](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1093-statistics-from-a-large-sample) |
+| [1140-stone-game-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1140-stone-game-ii) |
 | [1175-prime-arrangements](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1175-prime-arrangements) |
 | [1201-ugly-number-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1201-ugly-number-iii) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1307-verbal-arithmetic-puzzle) |
@@ -955,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0848-shifting-letters) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1140-stone-game-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1140-stone-game-ii) |
 | [1314-matrix-block-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1314-matrix-block-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -1007,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0486-predict-the-winner) |
 | [0778-swim-in-rising-water](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [1140-stone-game-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2029-stone-game-ix) |
 ## Game Theory
@@ -1014,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0486-predict-the-winner) |
 | [0810-chalkboard-xor-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0810-chalkboard-xor-game) |
+| [1140-stone-game-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2029-stone-game-ix) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -1022,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0486-predict-the-winner) |
 | [0810-chalkboard-xor-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0810-chalkboard-xor-game) |
+| [1140-stone-game-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1406-stone-game-iii) |
 | [2029-stone-game-ix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimum Spanning Tree
