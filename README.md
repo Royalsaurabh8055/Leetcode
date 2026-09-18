@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1316-distinct-echo-substrings](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1316-distinct-echo-substrings) |
 | [1392-longest-happy-prefix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1392-longest-happy-prefix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1977-number-of-ways-to-separate-numbers](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1977-number-of-ways-to-separate-numbers) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0910-smallest-range-ii) |
 | [0936-stamping-the-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0936-stamping-the-sequence) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1980-find-unique-binary-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1993-operations-on-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1993-operations-on-tree) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-minimum-area-rectangle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0939-minimum-area-rectangle) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1202-smallest-string-with-swaps](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1202-smallest-string-with-swaps) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
