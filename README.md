@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0936-stamping-the-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0936-stamping-the-sequence) |
 | [1776-car-fleet-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1776-car-fleet-ii) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2281-sum-of-total-strength-of-wizards) |
 ## Greedy
 |  |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0147-insertion-sort-list](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0148-sort-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0457-circular-array-loop) |
 | [0466-count-the-repetitions](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0466-count-the-repetitions) |
 | [0481-magical-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0481-magical-string) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Binary Search
