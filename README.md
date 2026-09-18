@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0936-stamping-the-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0936-stamping-the-sequence) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1627-graph-connectivity-with-threshold](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1627-graph-connectivity-with-threshold) |
 | [1631-path-with-minimum-effort](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1643-kth-smallest-instructions](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1643-kth-smallest-instructions) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1776-car-fleet-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1776-car-fleet-ii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1202-smallest-string-with-swaps](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
