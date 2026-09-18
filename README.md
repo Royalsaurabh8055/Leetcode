@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3242-design-neighbor-sum-service](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3378-count-connected-components-in-lcm-graph) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -738,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3378-count-connected-components-in-lcm-graph) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3894-traffic-signal-color](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3894-traffic-signal-color) |
