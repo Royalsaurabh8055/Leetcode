@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-extra-characters-in-a-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3163-string-compression-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3163-string-compression-iii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3407-substring-matching-pattern](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3407-substring-matching-pattern) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3894-traffic-signal-color](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3894-traffic-signal-color) |
@@ -772,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1307-verbal-arithmetic-puzzle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -789,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bitmask
 |  |
