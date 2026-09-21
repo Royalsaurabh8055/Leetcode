@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2707-extra-characters-in-a-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2707-extra-characters-in-a-string) |
+| [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
