@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-count-subarrays-with-median-k](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2488-count-subarrays-with-median-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2707-extra-characters-in-a-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2707-extra-characters-in-a-string) |
+| [2740-find-the-value-of-the-partition](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2740-find-the-value-of-the-partition) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
+| [2740-find-the-value-of-the-partition](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2740-find-the-value-of-the-partition) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3913-sort-vowels-by-frequency](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3913-sort-vowels-by-frequency) |
 ## Counting Sort
