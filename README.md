@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2029-stone-game-ix) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2145-count-the-hidden-sequences](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2145-count-the-hidden-sequences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-new-21-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0837-new-21-game) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1201-ugly-number-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1201-ugly-number-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3161-block-placement-queries](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3161-block-placement-queries) |
@@ -1025,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1977-number-of-ways-to-separate-numbers](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [1991-find-the-middle-index-in-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2145-count-the-hidden-sequences](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2145-count-the-hidden-sequences) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
