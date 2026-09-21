@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2029-stone-game-ix) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2145-count-the-hidden-sequences](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2145-count-the-hidden-sequences) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2740-find-the-value-of-the-partition](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2740-find-the-value-of-the-partition) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -1030,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2145-count-the-hidden-sequences](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2145-count-the-hidden-sequences) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2281-sum-of-total-strength-of-wizards) |
@@ -1055,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0479-largest-palindrome-product](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0479-largest-palindrome-product) |
 | [0829-consecutive-numbers-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0829-consecutive-numbers-sum) |
 | [1925-count-square-sum-triples](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 ## Radix Sort
