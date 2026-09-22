@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0016-3sum-closest) |
 | [0057-insert-interval](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -584,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0016-3sum-closest) |
 | [0147-insertion-sort-list](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0164-maximum-gap) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0283-move-zeroes) |
