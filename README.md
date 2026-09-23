@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2281-sum-of-total-strength-of-wizards](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2382-maximum-segment-sum-after-removals) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2488-count-subarrays-with-median-k](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2488-count-subarrays-with-median-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2661-first-completely-painted-row-or-column) |
@@ -1008,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -1026,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1324-print-words-vertically](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1324-print-words-vertically) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3242-design-neighbor-sum-service](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3242-design-neighbor-sum-service) |
 | [3894-traffic-signal-color](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3923-minimum-generations-to-target-point](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3923-minimum-generations-to-target-point) |
