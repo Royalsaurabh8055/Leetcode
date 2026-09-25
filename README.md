@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0140-word-break-ii) |
 | [0202-happy-number](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0202-happy-number) |
@@ -577,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0138-copy-list-with-random-pointer](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0147-insertion-sort-list](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0148-sort-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
