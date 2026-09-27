@@ -728,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0062-unique-paths) |
@@ -832,6 +833,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
