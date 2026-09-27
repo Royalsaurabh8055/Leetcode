@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0093-restore-ip-addresses](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0132-palindrome-partitioning-ii) |
@@ -816,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0077-combinations) |
+| [0093-restore-ip-addresses](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0140-word-break-ii) |
