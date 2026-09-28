@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [1993-operations-on-tree](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1993-operations-on-tree) |
 | [2029-stone-game-ix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2029-stone-game-ix) |
+| [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -718,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1201-ugly-number-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1201-ugly-number-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
