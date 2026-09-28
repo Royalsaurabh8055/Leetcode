@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2145-count-the-hidden-sequences](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2145-count-the-hidden-sequences) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2245-maximum-trailing-zeros-in-a-cornered-path](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2245-maximum-trailing-zeros-in-a-cornered-path) |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2187-minimum-time-to-complete-trips](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
