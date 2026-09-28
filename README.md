@@ -873,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1178-number-of-valid-words-for-each-puzzle) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -1130,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 ## Radix Sort
 |  |
 | ------- |
@@ -1396,6 +1398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0810-chalkboard-xor-game](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0810-chalkboard-xor-game) |
+| [2749-minimum-operations-to-make-the-integer-zero](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2749-minimum-operations-to-make-the-integer-zero) |
 ## Impartial Game
 |  |
 | ------- |
