@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2029-stone-game-ix) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2145-count-the-hidden-sequences](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2145-count-the-hidden-sequences) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2740-find-the-value-of-the-partition](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2740-find-the-value-of-the-partition) |
@@ -725,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2106-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2106-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2234-maximum-total-beauty-of-the-gardens](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2234-maximum-total-beauty-of-the-gardens) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2398-maximum-number-of-robots-within-budget) |
