@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0648-replace-words](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0648-replace-words) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0699-falling-squares](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0699-falling-squares) |
 | [0710-random-pick-with-blacklist](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0710-random-pick-with-blacklist) |
 | [0713-subarray-product-less-than-k](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -1004,6 +1005,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0699-falling-squares](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0699-falling-squares) |
 | [0731-my-calendar-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0731-my-calendar-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2382-maximum-segment-sum-after-removals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2382-maximum-segment-sum-after-removals) |
@@ -1133,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0218-the-skyline-problem) |
+| [0699-falling-squares](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0699-falling-squares) |
 | [0731-my-calendar-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1622-fancy-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1622-fancy-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
