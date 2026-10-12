@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0200-number-of-islands) |
+| [0218-the-skyline-problem](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0239-sliding-window-maximum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0274-h-index) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0179-largest-number) |
+| [0218-the-skyline-problem](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0274-h-index](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0324-wiggle-sort-ii) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0239-sliding-window-maximum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0332-reconstruct-itinerary](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0407-trapping-rain-water-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -898,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0148-sort-list) |
+| [0218-the-skyline-problem](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0324-wiggle-sort-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0324-wiggle-sort-ii) |
 | [0761-special-binary-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0761-special-binary-string) |
 | [0932-beautiful-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0932-beautiful-array) |
@@ -997,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0731-my-calendar-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0731-my-calendar-ii) |
@@ -1127,6 +1132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0731-my-calendar-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1622-fancy-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1622-fancy-sequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -1336,6 +1342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0218-the-skyline-problem) |
 | [3161-block-placement-queries](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3161-block-placement-queries) |
 ## Shortest Path
 |  |
@@ -1417,5 +1424,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sweep Line
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0391-perfect-rectangle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
