@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2194-cells-in-a-range-on-an-excel-sheet](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2194-cells-in-a-range-on-an-excel-sheet) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2531-make-number-of-distinct-characters-equal](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2707-extra-characters-in-a-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2707-extra-characters-in-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2488-count-subarrays-with-median-k](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2488-count-subarrays-with-median-k) |
+| [2531-make-number-of-distinct-characters-equal](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2661-first-completely-painted-row-or-column](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2661-first-completely-painted-row-or-column) |
 | [2707-extra-characters-in-a-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2707-extra-characters-in-a-string) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2029-stone-game-ix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2029-stone-game-ix) |
+| [2531-make-number-of-distinct-characters-equal](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2531-make-number-of-distinct-characters-equal) |
 | [2833-furthest-point-from-origin](https://github.com/Royalsaurabh8055/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3913-sort-vowels-by-frequency](https://github.com/Royalsaurabh8055/Leetcode/tree/master/3913-sort-vowels-by-frequency) |
