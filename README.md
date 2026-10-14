@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0839-similar-string-groups](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0839-similar-string-groups) |
 | [0848-shifting-letters](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0848-shifting-letters) |
+| [0859-buddy-strings](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0859-buddy-strings) |
 | [0880-decoded-string-at-index](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0880-decoded-string-at-index) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0811-subdomain-visit-count](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0839-similar-string-groups](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0839-similar-string-groups) |
+| [0859-buddy-strings](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0859-buddy-strings) |
 | [0888-fair-candy-swap](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0888-fair-candy-swap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0924-minimize-malware-spread](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0924-minimize-malware-spread) |
