@@ -16,19 +16,23 @@ public:
             return false;
         }
 
-        vector<int> mismatch;
+        int first = -1, second = -1;
 
         for (int i = 0; i < s.size(); i++) {
-            if (s[i] != goal[i])
-                mismatch.push_back(i);
+            if (s[i] != goal[i]) {
+                if (first == -1)
+                    first = i;
+                else if (second == -1)
+                    second = i;
+                else
+                    return false;
+            }
         }
 
-        if (mismatch.size() != 2)
+        if (second == -1)
             return false;
 
-        int i = mismatch[0];
-        int j = mismatch[1];
-
-        return s[i] == goal[j] && s[j] == goal[i];
+        return s[first] == goal[second] &&
+               s[second] == goal[first];
     }
 };
