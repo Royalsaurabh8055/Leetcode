@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0741-cherry-pickup](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0741-cherry-pickup) |
 | [0764-largest-plus-sign](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0764-largest-plus-sign) |
+| [0773-sliding-puzzle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0773-sliding-puzzle) |
 | [0788-rotated-digits](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0788-rotated-digits) |
 | [0792-number-of-matching-subsequences](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0792-number-of-matching-subsequences) |
 | [0813-largest-sum-of-averages](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0813-largest-sum-of-averages) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0752-open-the-lock) |
 | [0764-largest-plus-sign](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0764-largest-plus-sign) |
 | [0766-toeplitz-matrix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0766-toeplitz-matrix) |
+| [0773-sliding-puzzle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0789-escape-the-ghosts](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0789-escape-the-ghosts) |
 | [0792-number-of-matching-subsequences](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0792-number-of-matching-subsequences) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0752-open-the-lock) |
 | [0765-couples-holding-hands](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0765-couples-holding-hands) |
+| [0773-sliding-puzzle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0839-similar-string-groups](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0839-similar-string-groups) |
@@ -877,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0526-beautiful-arrangement](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0756-pyramid-transition-matrix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0773-sliding-puzzle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0773-sliding-puzzle) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1307-verbal-arithmetic-puzzle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1307-verbal-arithmetic-puzzle) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1046,6 +1050,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0140-word-break-ii) |
+| [0773-sliding-puzzle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0773-sliding-puzzle) |
 ## Design
 |  |
 | ------- |
@@ -1072,6 +1077,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0741-cherry-pickup) |
 | [0766-toeplitz-matrix](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0766-toeplitz-matrix) |
+| [0773-sliding-puzzle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0773-sliding-puzzle) |
 | [0778-swim-in-rising-water](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0883-projection-area-of-3d-shapes) |
@@ -1334,6 +1340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0752-open-the-lock) |
+| [0773-sliding-puzzle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0773-sliding-puzzle) |
 ## String Matching
 |  |
 | ------- |
@@ -1445,4 +1452,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0391-perfect-rectangle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0391-perfect-rectangle) |
+## Heuristic Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0773-sliding-puzzle) |
+## A* Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0773-sliding-puzzle) |
 <!---LeetCode Topics End-->
