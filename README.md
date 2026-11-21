@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0929-unique-email-addresses) |
 | [0932-beautiful-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0932-beautiful-array) |
 | [0939-minimum-area-rectangle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0939-minimum-area-rectangle) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [0963-minimum-area-rectangle-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0963-minimum-area-rectangle-ii) |
 | [1037-valid-boomerang](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1037-valid-boomerang) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-minimize-malware-spread](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0924-minimize-malware-spread) |
 | [0929-unique-email-addresses](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0929-unique-email-addresses) |
 | [0939-minimum-area-rectangle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0939-minimum-area-rectangle) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [0963-minimum-area-rectangle-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0963-minimum-area-rectangle-ii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
@@ -830,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0932-beautiful-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0932-beautiful-array) |
 | [0939-minimum-area-rectangle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0939-minimum-area-rectangle) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [0963-minimum-area-rectangle-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0963-minimum-area-rectangle-ii) |
 | [0991-broken-calculator](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0991-broken-calculator) |
 | [1017-convert-to-base-2](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1017-convert-to-base-2) |
@@ -942,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0839-similar-string-groups](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0839-similar-string-groups) |
 | [0924-minimize-malware-spread](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0924-minimize-malware-spread) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1202-smallest-string-with-swaps](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1267-count-servers-that-communicate](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1627-graph-connectivity-with-threshold) |
@@ -955,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0858-mirror-reflection](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0858-mirror-reflection) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0952-largest-component-size-by-common-factor](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 | [1201-ugly-number-iii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1201-ugly-number-iii) |
 | [1622-fancy-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1622-fancy-sequence) |
 | [1627-graph-connectivity-with-threshold](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1627-graph-connectivity-with-threshold) |
@@ -1460,4 +1465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0773-sliding-puzzle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0773-sliding-puzzle) |
+## Prime Factorization
+|  |
+| ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
 <!---LeetCode Topics End-->
