@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1037-valid-boomerang) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1093-statistics-from-a-large-sample](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1093-statistics-from-a-large-sample) |
+| [1122-relative-sort-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1140-stone-game-ii) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1178-number-of-valid-words-for-each-puzzle) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1002-find-common-characters) |
 | [1027-longest-arithmetic-subsequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1122-relative-sort-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1122-relative-sort-array) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1178-number-of-valid-words-for-each-puzzle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1178-number-of-valid-words-for-each-puzzle) |
@@ -683,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0910-smallest-range-ii) |
 | [0939-minimum-area-rectangle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0939-minimum-area-rectangle) |
 | [0954-array-of-doubled-pairs](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0954-array-of-doubled-pairs) |
+| [1122-relative-sort-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1122-relative-sort-array) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1202-smallest-string-with-swaps](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1383-maximum-performance-of-a-team](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1383-maximum-performance-of-a-team) |
@@ -710,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0767-reorganize-string) |
 | [0811-subdomain-visit-count](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0811-subdomain-visit-count) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1122-relative-sort-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1122-relative-sort-array) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1267-count-servers-that-communicate](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -1489,4 +1493,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
