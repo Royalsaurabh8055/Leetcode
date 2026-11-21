@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0767-reorganize-string) |
 | [0910-smallest-range-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0910-smallest-range-ii) |
 | [0936-stamping-the-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0936-stamping-the-sequence) |
+| [0954-array-of-doubled-pairs](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [0991-broken-calculator](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0991-broken-calculator) |
 | [1383-maximum-performance-of-a-team](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-beautiful-array](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0932-beautiful-array) |
 | [0939-minimum-area-rectangle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0939-minimum-area-rectangle) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
+| [0954-array-of-doubled-pairs](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [0963-minimum-area-rectangle-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0963-minimum-area-rectangle-ii) |
 | [1037-valid-boomerang](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1037-valid-boomerang) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0929-unique-email-addresses) |
 | [0939-minimum-area-rectangle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0939-minimum-area-rectangle) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0952-largest-component-size-by-common-factor) |
+| [0954-array-of-doubled-pairs](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [0963-minimum-area-rectangle-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0963-minimum-area-rectangle-ii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
@@ -665,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0891-sum-of-subsequence-widths](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0891-sum-of-subsequence-widths) |
 | [0910-smallest-range-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0910-smallest-range-ii) |
 | [0939-minimum-area-rectangle](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0939-minimum-area-rectangle) |
+| [0954-array-of-doubled-pairs](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
 | [1202-smallest-string-with-swaps](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1202-smallest-string-with-swaps) |
 | [1383-maximum-performance-of-a-team](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1383-maximum-performance-of-a-team) |
