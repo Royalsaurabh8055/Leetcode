@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0963-minimum-area-rectangle-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0963-minimum-area-rectangle-ii) |
 | [0966-vowel-spellchecker](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0966-vowel-spellchecker) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0997-find-the-town-judge](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1037-valid-boomerang](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1037-valid-boomerang) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1093-statistics-from-a-large-sample](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1093-statistics-from-a-large-sample) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0963-minimum-area-rectangle-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0963-minimum-area-rectangle-ii) |
 | [0966-vowel-spellchecker](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0966-vowel-spellchecker) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0997-find-the-town-judge](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0924-minimize-malware-spread](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0924-minimize-malware-spread) |
+| [0997-find-the-town-judge](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1791-find-center-of-star-graph](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
