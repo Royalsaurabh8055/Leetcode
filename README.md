@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-array-of-doubled-pairs](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [0963-minimum-area-rectangle-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0963-minimum-area-rectangle-ii) |
 | [0966-vowel-spellchecker](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0966-vowel-spellchecker) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1037-valid-boomerang](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1037-valid-boomerang) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1093-statistics-from-a-large-sample](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1093-statistics-from-a-large-sample) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-array-of-doubled-pairs](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0954-array-of-doubled-pairs) |
 | [0963-minimum-area-rectangle-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0963-minimum-area-rectangle-ii) |
 | [0966-vowel-spellchecker](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0966-vowel-spellchecker) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1156-swap-for-longest-repeated-character-substring](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1156-swap-for-longest-repeated-character-substring) |
 | [1170-compare-strings-by-frequency-of-the-smallest-character](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1170-compare-strings-by-frequency-of-the-smallest-character) |
@@ -1140,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-largest-sum-of-averages](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0813-largest-sum-of-averages) |
 | [0848-shifting-letters](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0848-shifting-letters) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0903-valid-permutations-for-di-sequence) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Royalsaurabh8055/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1140-stone-game-ii](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1140-stone-game-ii) |
 | [1314-matrix-block-sum](https://github.com/Royalsaurabh8055/Leetcode/tree/master/1314-matrix-block-sum) |
